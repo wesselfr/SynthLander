@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ArrayOfTimeData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TimeData>
+    <m_Seconds>0</m_Seconds>
+    <m_Miliseconds>0</m_Miliseconds>
+  </TimeData>
+  <TimeData>
+    <m_Seconds>6</m_Seconds>
+    <m_Miliseconds>420.167053</m_Miliseconds>
+  </TimeData>
+  <TimeData>
+    <m_Seconds>4</m_Seconds>
+    <m_Miliseconds>72.28558</m_Miliseconds>
+  </TimeData>
+  <TimeData>
+    <m_Seconds>3</m_Seconds>
+    <m_Miliseconds>519.581848</m_Miliseconds>
+  </TimeData>
+</ArrayOfTimeData>
